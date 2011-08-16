@@ -92,7 +92,7 @@
 		</dependency>
 	</dependencies>
 	<properties>
-		<jersey.version>1.7-ea07</jersey.version>
+		<jersey.version>1.8</jersey.version>
 		<jetty.version>6.1.26</jetty.version>
 	</properties>
 	<repositories>
